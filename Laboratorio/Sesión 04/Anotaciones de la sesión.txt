@@ -1,0 +1,2 @@
+Si el método está en la subclase, en la superclase es abstracto
+El método equals no se le pone abstracto, pues que ya está definido para la superclase Object
